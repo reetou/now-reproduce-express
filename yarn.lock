@@ -295,6 +295,13 @@ jinang@^0.22.0:
   dependencies:
     noda "^0.1.2"
 
+jinang@^0.25.0:
+  version "0.25.0"
+  resolved "https://registry.yarnpkg.com/jinang/-/jinang-0.25.0.tgz#634ee2b52003b190fccd5e1c23898f4d8fb1eedd"
+  integrity sha512-d7RqWxNiK0M+RMgxUsFloiAtx0jmXaGaMuLnpkF7muSEgSNrm778y9kVlqTeKiOoqWvW4P3gIUOBAgYnZiucFw==
+  dependencies:
+    noda "^0.1.2"
+
 media-typer@0.3.0:
   version "0.3.0"
   resolved "http://registry.npmjs.org/media-typer/-/media-typer-0.3.0.tgz#8710d7af0aa626f8fffa1ce00168545263255748"
